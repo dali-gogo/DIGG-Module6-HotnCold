@@ -23,4 +23,4 @@ Special thanks to the Boocamp's staff members for supporting this learning journ
 MIT License used for the corresponding repository.
 
 ## Screenshots
-![Screenshot of the website deployed after source code modification.](./images/PayrollTracker1.png)
+![Screenshot of the website deployed after source code modification.](./assets/Weather_Dashboard.jpg)
