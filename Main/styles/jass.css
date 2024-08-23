@@ -1699,7 +1699,7 @@ label form [type='radio'] {
 
 .weather-header {
   background: #20084a;
-  background: -webkit-linear-gradient(right, #5714ae, #b87fd8);
-  background: -moz-linear-gradient(right, #5714ae, #b87fd8);
-  background: linear-gradient(to left, #5714ae, #b87fd8);
+  background: -webkit-linear-gradient(right, #5209b3, #d2ace8);
+  background: -moz-linear-gradient(right, #5209b3, #d2ace8);
+  background: linear-gradient(to left, #5209b3, #d2ace8));
 }
