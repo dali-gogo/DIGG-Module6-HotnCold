@@ -767,7 +767,7 @@ a:hover {
 }
 
 .bg-link {
-  background-color: #1b89bc !important;
+  background-color: #6f0fbd !important;
 }
 
 /* DISPLAY */
@@ -1169,7 +1169,7 @@ label form [type='radio'] {
   flex: 0 0 100%;
   max-width: 100%;
 }
-Cr
+
 @media screen and (min-width: 640px) {
   .col-sm-auto {
     flex-grow: 1;

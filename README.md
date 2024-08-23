@@ -24,7 +24,3 @@ MIT License used for the corresponding repository.
 
 ## Screenshots
 ![Screenshot of the website deployed after source code modification.](./images/PayrollTracker1.png)
-![Screenshot of the website deployed after source code modification.](./images/PayrollTracker2.png)
-![Screenshot of the website deployed after source code modification.](./images/PayrollTracker3.png)
-![Screenshot of the website deployed after source code modification.](./images/PayrollTracker4.png)
-![Screenshot of the website deployed after source code modification.](./images/PayrollTracker5.png)
